@@ -1,2 +1,3 @@
-#fuck my life
-"frist project"
+# fuck my life
+
+frist project
