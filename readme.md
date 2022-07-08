@@ -1,3 +1,3 @@
-# fuck my life
 
-frist project
+
+Part of javascript Course on udemy
